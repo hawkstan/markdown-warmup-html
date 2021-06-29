@@ -8,9 +8,6 @@ header, footer {
 em {
     color: grey;
 }
-#dagoth {
-    color: black;
-}
 table {
     border-collapse: collapse;
 }
@@ -24,6 +21,9 @@ a:link, a:visited {
 a:hover {
     color: hotpink;
 }
+#dagoth {
+    color: black;
+}
 img {
     size: 500px 500px;
     border-radius: 50%;
@@ -35,7 +35,6 @@ ul {
     list-style: none;
     padding: 0px;
 }
-
 ul li:before
 {
     content: '\2605';
