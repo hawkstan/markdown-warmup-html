@@ -1,5 +1,5 @@
 body {
-    padding: 10px;
+    padding: 30px;
     font-family: 'Comfortaa', fantasy;
 }
 header, footer {
@@ -7,6 +7,9 @@ header, footer {
 }
 em {
     color: grey;
+}
+#dagoth {
+    color: black;
 }
 table {
     border-collapse: collapse;
