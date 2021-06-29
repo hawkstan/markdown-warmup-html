@@ -1,0 +1,40 @@
+body {
+    padding: 10px;
+    font-family: 'Comfortaa', fantasy;
+}
+header, footer {
+    text-align: center;
+}
+em {
+    color: grey;
+}
+table {
+    border-collapse: collapse;
+}
+td, th {
+    padding: 5px;
+    text-align: center;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+a:hover {
+    color: hotpink;
+}
+img {
+    size: 500px 500px;
+    border-radius: 50%;
+}
+h1, h2, h4 {
+    font-family: 'Montez', cursive ;
+}
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+ul li:before
+{
+    content: '\2605';
+    margin: 0 1em;
+}
